@@ -37,7 +37,6 @@ Indica los permisos de compartir para las siguientes carpetas especifi cando los
 12. ¿Qué utilizarías si se requiere conectar esta Sucursal con otra lejana?
 13. ¿Cómo maximizamos los siguientes atributos de calidad? Disponibilidad, Seguridad, Performance, Escalabilidad.
 14. Realizar mediante una Hoja de Cálculo el presupuesto de Equipamiento y Mano de Obra Completa.
-15. Realizar una Propuesta Comercial para la empresa en un Documento en formato PDF.
+15. Realizar una Propuesta Comercial para la empresa en un Documento en formato PDF
 
-
-
+![alt text](image-1.png)
